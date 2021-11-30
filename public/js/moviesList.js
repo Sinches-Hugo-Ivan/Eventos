@@ -7,7 +7,7 @@ import darkMode from "./Components/darkMode.js";
     const $body = d.body;
     const $h1 = d.querySelector('h1')
 
-    // Agregar fondo oscuro ¿? (Un poco bastante feo como queda...)
+    // Agregar fondo oscuro ¿? 
     darkMode(confirm("¿Desea añadir modo oscuro?"))
     
     // Agregar mensaje
